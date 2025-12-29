@@ -4,20 +4,20 @@ import React from 'react';
 const Gallery: React.FC = () => {
   const images = [
     { 
-      title: 'Fachada à Beira-Mar', 
-      url: 'https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&q=80&w=1200' 
+      title: 'Design Contemporâneo e Atemporal', 
+      url: 'https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&q=80&w=1200' 
     },
     { 
-      title: 'Sala de Estar Elegante', 
-      url: 'https://images.unsplash.com/photo-1600210491892-03d54c0aaf87?auto=format&fit=crop&q=80&w=1200' 
+      title: 'Living Integrado com Acabamento Premium', 
+      url: 'https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&q=80&w=1200' 
     },
     { 
-      title: 'Suíte Master com Closet', 
-      url: 'https://images.unsplash.com/photo-1600566752355-35792bedcfea?auto=format&fit=crop&q=80&w=1200' 
+      title: 'Suíte Master: Seu Refúgio Particular', 
+      url: 'https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?auto=format&fit=crop&q=80&w=1200' 
     },
     { 
-      title: 'Piscina com Borda Infinita', 
-      url: 'https://images.unsplash.com/photo-1576013551627-0cc20b96c2a7?auto=format&fit=crop&q=80&w=1200' 
+      title: 'Lazer Exclusivo e Paisagismo', 
+      url: 'https://images.unsplash.com/photo-1532323544230-7191fd51bc1b?auto=format&fit=crop&q=80&w=1200' 
     },
   ];
 

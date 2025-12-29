@@ -29,8 +29,8 @@ const Location: React.FC = () => {
                 <div className="flex items-center space-x-3 mb-3 text-amber-600">
                   <svg className="w-6 h-6" fill="currentColor" viewBox="0 0 20 20"><path d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" /></svg>
                   <h4 className="font-bold text-slate-900 uppercase text-xs tracking-widest">Shopping Riomar</h4>
-                  <p className="text-slate-500 text-sm">4 minutos de distância para seu conforto e conveniência.</p>
                 </div>
+                <p className="text-slate-500 text-sm">4 minutos de distância para seu conforto e conveniência.</p>
               </div>
             </div>
           </div>
@@ -38,8 +38,8 @@ const Location: React.FC = () => {
           <div className="lg:w-1/2 w-full">
             <div className="relative rounded-[2rem] overflow-hidden shadow-2xl shadow-slate-200 aspect-square lg:aspect-auto lg:h-[600px]">
               <img 
-                src="https://images.unsplash.com/photo-1545156521-77bd85671d30?auto=format&fit=crop&q=80&w=1200" 
-                alt="Visão aérea de Aracaju" 
+                src="https://images.unsplash.com/photo-1623068481023-7059d8acdb22?auto=format&fit=crop&q=80&w=1200" 
+                alt="Localização Privilegiada na Orla" 
                 className="w-full h-full object-cover"
               />
               <div className="absolute inset-0 bg-slate-900/10"></div>
