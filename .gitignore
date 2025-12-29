@@ -1,0 +1,13 @@
+# Dependências e Build
+node_modules
+dist
+build
+
+# Configurações de Ambiente (SEGURANÇA MÁXIMA)
+.env
+.DS_Store
+
+# Logs e outros
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
