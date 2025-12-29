@@ -77,7 +77,8 @@ try {
 
     // Remetente e Destinatário
     $mail->setFrom(getenv('SMTP_USER'), 'Site Construtora Alfama');
-    $mail->addAddress('vini.dionysio@gmail.com'); 
+    $mail->addAddress(getenv('DEST_1'));
+    $mail->addAddress(getenv('DEST_2'));
     $mail->addReplyTo($email, $nome);
 
     // Conteúdo do E-mail
