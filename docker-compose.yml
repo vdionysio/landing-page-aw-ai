@@ -9,4 +9,6 @@ services:
       # As variáveis virão do seu arquivo .env local
       - SMTP_USER=${SMTP_USER}
       - SMTP_PASS=${SMTP_PASS}
+      - DEST_1=${DEST_1}
+      - DEST_2=${DEST_2}
     restart: unless-stopped
